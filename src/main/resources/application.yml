@@ -1,0 +1,6 @@
+spring:
+  task:
+    scheduling:
+      cron: 0 0/2 15  * * ? # 15:15, a cada 2 minutos de todos os dias
+
+# 0 10 15 * * ?  # 15:10 de todos os dias
